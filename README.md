@@ -7,7 +7,7 @@
 
 
 
-<p> <a href="https://twitter.com/gairick_saha" target="blank"><img src="https://img.shields.io/twitter/follow/gairick_saha?logo=twitter&style=for-the-badge" alt="gairick_saha" /></a> </p>
+<p><a href="https://twitter.com/gairick_saha" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/gairick_saha?logo=twitter&style=for-the-badge" alt="gairick_saha" /></a> </p>
 
 - 🔭 I’m currently working with **Flutter**
 

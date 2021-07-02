@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=gairick-saha&label=Profile%20views&color=0e75b6&style=flat" alt="gairick-saha" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=gairick-saha&label=Profile%20views&color=0e75b6" alt="gairick-saha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gairick-saha" alt="gairick-saha" /></a> </p>
 

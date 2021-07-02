@@ -3,7 +3,7 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gairick-saha&show_icons=true&locale=en" alt="gairick-saha" /></p>
 
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gairick-saha&show_icons=true&locale=en&layout=compact" alt="gairick-saha" /></p>
+<p align="right"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gairick-saha&show_icons=true&locale=en&layout=compact" alt="gairick-saha" /></p>
 
 <p align="left"><img  src="https://komarev.com/ghpvc/?username=gairick-saha&label=Profile%20views&color=0e75b6&style=flat" alt="gairick-saha" /> </p>
 

@@ -23,6 +23,10 @@
 <a href="https://instagram.com/gairick.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gairick.saha" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gairick-saha&show_icons=true&locale=en&layout=compact" alt="gairick-saha" />
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=gairick-saha" alt="gairick-saha" /></a> </p>
 
 
@@ -32,7 +36,7 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gairick-saha&" alt="gairick-saha" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gairick-saha&show_icons=true&locale=en&layout=compact" alt="gairick-saha" />
+  
 </p>
 
 

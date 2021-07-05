@@ -39,7 +39,7 @@
   
 </p>
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=gairick-saha&row=2&column=3&theme=oldie" alt="gairick-saha" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=gairick-saha&row=1&theme=oldie" alt="gairick-saha" />
   </a> 
 </p>
 

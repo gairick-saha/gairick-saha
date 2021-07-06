@@ -1,3 +1,4 @@
+<div align="left">
 <h1 align="center">Hi 👋, I'm Gairick Saha</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
@@ -38,8 +39,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gairick-saha&" alt="gairick-saha" />
   
 </p>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=gairick-saha&column=1&row=6&theme=oldie" alt="gairick-saha" />
+</div>
+<p align="right"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=gairick-saha&column=1&row=6&theme=oldie"      alt="gairick-saha" />
   </a> 
 </p>
 

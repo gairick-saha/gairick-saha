@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with **Flutter**
 
-- 🌱 I’m currently learning **Flutter, React, & Django**
+- 🌱 I’m currently learning **Flutter, Django, & React**
 
 - 📫 How to reach me **gairicksaha@gmail.com**
 

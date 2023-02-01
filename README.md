@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with **Flutter, NodeJS, Python(FastAPI)**
 
-- 🌱 I’m currently learning **React, Elixir**
+- 🌱 I’m currently learning **React & Elixir**
 
 - 📫 How to reach me **gairicksaha@gmail.com**
 

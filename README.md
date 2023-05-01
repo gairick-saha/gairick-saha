@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gairick Saha</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate flutter developer from India :india: </h3>
 
 <p >
   <a align="left" href="https://twitter.com/gairick_saha" target="blank"><img src="https://img.shields.io/twitter/follow/gairick_saha?logo=twitter&style=for-the-badge" alt="gairick_saha" /></a>
